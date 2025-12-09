@@ -3,7 +3,7 @@
 ┌──┤ DASHBOARD ├───────────────────────────────────────────────────────────▢▢▢
 │
 ├─▢ Hi, Welcome
-├─▢ Front-End Developer.
+├─▢ Full-Stack Web Developer.
 ├─▢ From South Africa, Johannesburg.
 ├─▢ Interested in Front-End Development, User Experience Design and AI.
 ├─▢ I love Music, Tech, Anime and Science Fiction.
