@@ -1,7 +1,7 @@
-<p align="center">▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢</p>
+<pre align="center">▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢</pre>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=B98A2E&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+APIs+that+don't+break;Currently+learning%3A+AI+Integration;Coffee+%3E+Sleep" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A56EFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+APIs+that+don't+break;Currently+learning%3A+AI+Integration;Coffee+%3E+Sleep" alt="Typing SVG" />
 </div>
 
 <br clear="both">
@@ -87,13 +87,13 @@
 </pre>
 <br clear="both">
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Claude%20API&logo=anthropic&label=&color=D97757&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="anthropic claude api"  />
+  <img src="https://img.shields.io/static/v1?message=Claude%20API&logo=anthropic&label=&color=A56EFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="anthropic claude api"  />
   <img width="8" />
-  <img src="https://img.shields.io/static/v1?message=OpenAI%20API&logo=openai&label=&color=412991&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="openai api"  />
+  <img src="https://img.shields.io/static/v1?message=OpenAI%20API&logo=openai&label=&color=6FE0F5&logoColor=170D2E&labelColor=&style=for-the-badge" height="28" alt="openai api"  />
   <img width="8" />
-  <img src="https://img.shields.io/static/v1?message=LangChain&logo=langchain&label=&color=1C3C3C&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="langchain"  />
+  <img src="https://img.shields.io/static/v1?message=LangChain&logo=langchain&label=&color=170D2E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="langchain"  />
   <img width="8" />
-  <img src="https://img.shields.io/static/v1?message=RAG%20%2F%20Vector%20Search&label=&color=2E2E2E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="rag and vector search"  />
+  <img src="https://img.shields.io/static/v1?message=RAG%20%2F%20Vector%20Search&label=&color=170D2E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="rag and vector search"  />
 </div>
 
 ###
@@ -123,8 +123,8 @@
 </pre>
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamdeemab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B98A2E&text_color=EDEEE6&icon_color=B98A2E&border_color=0D1117" height="165" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeemab&hide_border=true&background=0D1117&stroke=0D1117&ring=B98A2E&fire=B98A2E&currStreakLabel=EDEEE6&sideLabels=EDEEE6&dates=9FA6A3&currStreakNum=EDEEE6&sideNums=EDEEE6" height="165" alt="github streak"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=iamdeemab&hide_border=true&count_private=false&bg_color=170D2E&title_color=A56EFF&text_color=EDE9F7&icon_color=6FE0F5&border_color=170D2E" height="165" alt="github stats"/>
+  <img src="https://streak-stats.demolab.com/?user=iamdeemab&hide_border=true&background=170D2E&stroke=170D2E&ring=A56EFF&fire=6FE0F5&currStreakLabel=EDE9F7&sideLabels=EDE9F7&dates=B7A8D9&currStreakNum=EDE9F7&sideNums=EDE9F7" height="165" alt="github streak"/>
 </div>
 
 ###
@@ -133,25 +133,25 @@
 
 <div align="center">
   <a href="##" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A56EFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/iamdeemab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=170D2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
   </a>
   <a href="##" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=6FE0F5&logoColor=170D2E&labelColor=&style=for-the-badge" height="25" alt="bluesky logo"  />
   </a>
   <a href="##" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=devdotto&label=&color=A56EFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo"  />
   </a>
   <a href="##" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stack overflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=170D2E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stack overflow logo"  />
   </a>
   <a href="https://www.instagram.com/iamdeemab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=6FE0F5&logoColor=170D2E&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="iamdeemab#5259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=A56EFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
