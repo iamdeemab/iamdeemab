@@ -163,10 +163,10 @@
 <h3>
 ┌──┤ PROJECTS ├─────────────────────────────────────────────────────────────▢▢▢
 │
-├─▢ <a href="https://github.com/iamdeemab/100_days_of_code.git">My Coding Journey</a>
-├─▢ <a href="https://github.com/iamdeemab/alx-system_engineering-devops.git">Systems Engineering - DevOps</a>
-├─▢ <a href="https://github.com/iamdeemab/#">C Programming</a>
 ├─▢ <a href="https://github.com/iamdeemab/#">Ledger — Finance Tracker API with AI Insights</a>
+├─▢ <a href="https://github.com/iamdeemab/#">URL Shortener with Analytics</a>
+├─▢ <a href="https://github.com/iamdeemab/#">Rate Limiter / API Middleware</a>
+├─▢ <a href="https://github.com/iamdeemab/alx-system_engineering-devops.git">Systems Engineering - DevOps</a>
 ├─▢ <a href="https://github.com/iamdeemab/beerus_castle.git">Beerus Castle Responsive Website</a>
 │
 └───────────────────────────────────────────────────────────────────────────▢▢▢
